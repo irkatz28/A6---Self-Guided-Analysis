@@ -1,5 +1,7 @@
 # Self Guided Public Health Data Analysis
-Self Guided Analysis of CDC PLACES data. 
+Self Guided Analysis of CDC PLACES data using Python.
+
+https://public.tableau.com/app/profile/isabelle.katz/viz/Katz6_7/Story1
 
 Data Introduction:
 
