@@ -1,4 +1,4 @@
-# A6---Self-Guided-Analysis
+# Self Guided Public Health Data Analysis
 Self Guided Analysis of CDC PLACES data. 
 
 Data Introduction:
